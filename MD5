@@ -1,10 +1,10 @@
-62029e1c77a86e1294af8642747a0121 *DESCRIPTION
+04ec2fe6368ebd9e2e1d7a2d2544d28e *DESCRIPTION
 4d3f3c7c541ed88d1b0fb7ddd7b627b1 *LICENSE
 b41ffbefa9a5e87e20f69d98bac63054 *NAMESPACE
-6878e6dbb1a39f5f582a59d355f5dadd *NEWS.md
+c72bd6501c78f19d54884794f0135d85 *NEWS.md
 dc343160454a55d0cb8d511ef09b54f0 *R/AllClasses.R
 732145b1a57243884f427556233a31a3 *R/AllGenerics.R
-c26d5cb8bb891003c770e3afba9300fe *R/as_worm_tensor.R
+54d12455c6ffc29975c4a3fd3b1b54b6 *R/as_worm_tensor.R
 868552528b1613a197ad654a81121663 *R/globals.R
 f0e531b2103b4a6507a789d1e2da825a *R/worm_clustering.R
 65a2db1ae817232a8c4a064f7f441096 *R/worm_distance.R
@@ -13,9 +13,9 @@ b16321a9843016b06528d2fba2388acc *R/worm_evaluate.R
 d4efcc1305176723e1d35924fed82287 *R/worm_membership.R
 63121c535ca013337218a14d2bfb174a *R/worm_visualize.R
 b35fc3dfe06e3147e3c0067b8da9d52b *build/vignette.rds
-01350ab5a7eec59f186cbcf4f040c7df *inst/doc/WormTensor.R
+4b7a7c452b5c2c8add1613f1add47d84 *inst/doc/WormTensor.R
 ef182b3b52af9b7de96c1bd41b9dd3ca *inst/doc/WormTensor.Rmd
-2c62fa495a146d13ad4be267c32aedb3 *inst/doc/WormTensor.html
+5cb404a3bd11dab547e9fb23462f2185 *inst/doc/WormTensor.html
 847ebd433a6f37ab3c208bcc5560fcdb *man/AllGenerics_component.Rd
 1491f604bce2b22df6bb44315d804d92 *man/WormTensor-class.Rd
 c6fe5019e75535159e3ce72172b9e124 *man/as_worm_tensor.Rd
@@ -30,8 +30,8 @@ c6fe5019e75535159e3ce72172b9e124 *man/as_worm_tensor.Rd
 0e3b85fd6e4d43a6dff11df42211cfaf *tests/testthat/test-AllGenerics.R
 c53b38ca1bfddb0baf3765cf7a8e2aec *tests/testthat/test-as_worm_tensor.R
 3b827d8522085c9cbff9e146bdded401 *tests/testthat/test-worm_clustering.R
-208f81703b57a31cd9b2ef1ef313c4b7 *tests/testthat/test-worm_distance.R
-b362b4f3f7ad577c01b50dc894ef5a74 *tests/testthat/test-worm_download.R
+3826c5c95c60a54d707050480473b11a *tests/testthat/test-worm_distance.R
+91fa36e49b6f26b9940b1d16e4565d8d *tests/testthat/test-worm_download.R
 6db76d0d1f967aa0aaa05ed2d19cbea3 *tests/testthat/test-worm_evaluate.R
 3befbaae902728c5b4960f4f5455947d *tests/testthat/test-worm_membership.R
 69f7686f7003e4e0c23147c7664ca905 *tests/testthat/test-worm_visualize.R

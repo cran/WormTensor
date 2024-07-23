@@ -2,7 +2,7 @@ Package: WormTensor
 Type: Package
 Title: A Clustering Method for Time-Series Whole-Brain Activity Data of
         'C. elegans'
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(person("Kentaro", "Yamamoto", role = c("aut", "cre"),
                       email = "yamaken37.the.answer@gmail.com"),
                       person("Koki", "Tsuyuzaki", role = "aut"),
@@ -29,9 +29,9 @@ Imports: rTensor, usedist, dtwclust, clusterSim, clValid, aricode,
 RoxygenNote: 7.2.0
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2022-09-08 05:19:16 UTC; rstudio
+Packaged: 2024-07-23 08:39:10 UTC; rstudio
 Author: Kentaro Yamamoto [aut, cre],
   Koki Tsuyuzaki [aut],
   Itoshi Nikaido [aut]
 Repository: CRAN
-Date/Publication: 2022-09-08 09:22:58 UTC
+Date/Publication: 2024-07-23 09:10:02 UTC
